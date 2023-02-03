@@ -1,18 +1,18 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/README.md",
-  "title": "Pratik Pingale | Home",
-  "name": "Pratik Pingale",
+  "title": "Edouard Richard | Home",
+  "name": "Edouard Richard",
   "description": "Yoo! Welcome to my Terminal based home page!",
-  "ascii": "proxzima",
+  "ascii": "traveled",
   "social": {
-    "github": "PROxZIMA",
-    "linkedin": "pratik-pingale"
+    "github": "Traveled",
+    "linkedin": "edouard-richard"
   },
-  "email": "contact@proxzima.dev",
+  "email": "traveled@disroot.org",
   "ps1_hostname": "proxzima.dev",
-  "ps1_username": "okyakusan",
+  "ps1_username": "traveled",
   "ps1_username_kanji": "お客さん",
-  "repo": "https://github.com/PROxZIMA/proxzima.github.io",
+  "repo": "https://github.com/Traveled/traveled.github.io",
   "homepage": "https://proxzima.dev",
   "resume_url": "https://proxzima.dev/resume/",
   "donate_urls": {
